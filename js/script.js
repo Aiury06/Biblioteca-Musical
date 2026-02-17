@@ -4,6 +4,12 @@ const musicas = [
     artista: "Aiury",
     arquivo: "musicas/Tudo-vai-dar-certo.mp3",
     capa: "capas/capa1.png"
+  },
+  {
+    titulo: "Até Lá",
+    artista: "Aiury",
+    arquivo: "musicas/Ate-la.mp3",
+    capa: "capas/capa2.jpeg"
   }
 ];
 
