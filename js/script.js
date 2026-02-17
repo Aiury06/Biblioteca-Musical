@@ -6,9 +6,9 @@ const musicas = [
     capa: "capas/capa1.png"
   },
   {
-    titulo: "Até Lá",
+    titulo: "Em Cada Canção",
     artista: "Aiury",
-    arquivo: "musicas/Ate-la.mp3",
+    arquivo: "musicas/Em-cada-cancao.mp3",
     capa: "capas/capa2.jpeg"
   }
 ];
